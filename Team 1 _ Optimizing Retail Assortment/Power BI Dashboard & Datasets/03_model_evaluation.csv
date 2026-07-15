@@ -1,0 +1,4 @@
+"Model","RMSE","MAE","R_Squared"
+"Random Forest",213.97,47.66,0.7738
+"XGBoost",194.43,35.15,0.8132
+"GBM",216.64,52.37,0.7681
